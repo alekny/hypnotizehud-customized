@@ -1,4 +1,5 @@
 "Scheme"
+//proph: readded size 32 (Game 32)
 {
 	"BitmapFontFiles"
 	{
@@ -86,6 +87,16 @@
 			{
 				"name"										"Rubik SemiBold"
 				"tall"										"30"
+				"antialias"									"1"
+			}
+		}
+		"Game 32"
+		{
+			"1"
+			{
+				"name"										"Rubik SemiBold"
+				"tall"										"32"
+				"additive"									"0"
 				"antialias"									"1"
 			}
 		}
@@ -185,6 +196,17 @@
 			{
 				"name"										"Rubik SemiBold"
 				"tall"										"30"
+				"antialias"									"1"
+				"blur"										"2"
+			}
+		}
+		"Game 32 Blur"
+		{
+			"1"
+			{
+				"name"										"Rubik SemiBold"
+				"tall"										"32"
+				"additive"									"0"
 				"antialias"									"1"
 				"blur"										"2"
 			}

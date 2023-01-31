@@ -21,10 +21,4 @@
 //============================================================
 
 #base 	"../scripts/layouts/layout_default.res"
-
-//============================================================
-// DEV TOOLS
-//============================================================
-
-#base 	"../resource/tools/flatscreen.res"
-#base 	"../resource/tools/damage simulator.res"
+#base 	"../customizations/crosshairs and hitmarker.res"

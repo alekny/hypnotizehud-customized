@@ -1,4 +1,4 @@
-"Resource/Crosshairs and Hitmarkers.res"
+"Resource/HudLayout.res"
 {
 	//====================================================================================
 	// HUD CROSSHAIR
@@ -11,34 +11,35 @@
 
 	"CustomCrosshair"
 	{
-		"visible"	"0"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center"
-
-		"labelText"	"?"
-
-		"font"		"Size:18 | Outline:OFF"
-
+		"visible"	"1"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center"
+		
+		"labelText"	"7"
+		
+		"font"		"Size:22 | Outline:OFF"
+		
 		"xpos"		"cs-0.5"
 		"ypos"		"cs-0.5"
-
-		"fgcolor"	"Crosshair"
+		
+		"fgcolor"	"240 65 143 255"
 	}
-
+	
 	//====================================================================================
 	// HUD CROSSHAIR BLUR SHADOW
 	//====================================================================================
-	// Make sure the "labelText" matches the main crosshair
+	// Before using the blur shadow make sure to enable the blur fonts by uncommenting:
+	// #base "../resource/scheme/crosshairs_blur.res" inside the clintscheme.res
 	//====================================================================================
 
-	"CustomCrosshairBlurShadow"
-	{
-		"visible"	"0"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshairBlurShadow" "enabled" "1" "xpos" "0" "ypos" "0" "zpos" "-1" "wide" "f0" "tall" "f0" "textAlignment" "center" "pin_to_sibling" "CustomCrosshair"
-
-		"labelText"	"?"
-
-		"font"		"Size:18 | Blur:ON"
-
-		"fgcolor"	"Crosshair Shadow"
-	}
+	//"CustomCrosshairBlurShadow"
+	//{
+	//	"visible"	"0"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshairBlurShadow" "enabled" "1" "xpos" "0" "ypos" "0" "zpos" "-1" "wide" "f0" "tall" "f0" "textAlignment" "center" "pin_to_sibling" "CustomCrosshair"
+	//	
+	//	"labelText"	"A"
+	//	
+	//	"font"		"Size:18 | Blur:ON"
+	//	
+	//	"fgcolor"	"Crosshair Shadow"
+	//}
 
 	//====================================================================================
 	// HITMARKER
@@ -51,15 +52,32 @@
 	// For more instructions: https://github.com/Hypnootize/Hypnotize-Hud/wiki/Hitmarkers
 	//====================================================================================
 
-	"HitMarker"
-	{
-		"labelText"	"s"																																																																			"ControlName" "CExLabel" "fieldName" "HitMarker" "enabled" "1" "visible" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center" "alpha" "0"
+	//"HitMarker"
+	//{
+	//	"labelText"	"2"																																																																			"ControlName" "CExLabel" "fieldName" "HitMarker" "enabled" "1" "visible" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center" "alpha" "0"
+	//	
+	//	"font"		"Size:24 | Outline:OFF"
+	//	
+	//	"xpos"		"cs-0.5"
+	//	"ypos"		"cs-0.5"
+	//	
+	//	"fgcolor"	"HitMarker"
+	//}
 
-		"font"		"Size:24 | Outline:OFF"
 
-		"xpos"		"cs-0.5"
-		"ypos"		"cs-0.5"
-
-		"fgcolor"	"HitMarker"
-	}
+	//Custom proph cross
+	//"AlexCrosshair"
+	//{
+	//	"visible"	"1" 	"ControlName" "CTFImagePanel" "fieldName" "AlexCrosshair" "enabled" "1" "zpos" //"0" "wide" "23" "tall" "23"
+	//	
+//
+	//	"xpos"		"cs-0.5"
+	//	"ypos"		"cs-0.5"
+//
+	//	"alpha"		"255"
+	//	"image"		"replay/thumbnails/alexcross2"
+	//	"scaleImage"		"1"
+//
+	//	//"fgcolor"	"64 223 255 255" //"84 223 255 255"
+	//}
 }

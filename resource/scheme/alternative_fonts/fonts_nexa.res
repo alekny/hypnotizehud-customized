@@ -2,6 +2,7 @@
 {
 	"Fonts"
 	{
+	//proph: readded size 32 (Game 32)
 		"Game 12"
 		{
 			"1"
@@ -59,6 +60,13 @@
 			}
 		}
 		"Game 30"
+		{
+			"1"
+			{
+				"name"										"NexaBold"
+			}
+		}
+		"Game 32"
 		{
 			"1"
 			{
@@ -130,6 +138,13 @@
 			}
 		}
 		"Game 30 Blur"
+		{
+			"1"
+			{
+				"name"										"NexaBold"
+			}
+		}
+		"Game 32 Blur"
 		{
 			"1"
 			{
