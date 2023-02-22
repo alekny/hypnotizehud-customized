@@ -68,16 +68,16 @@
 	//Custom proph cross
 	//"AlexCrosshair"
 	//{
-	//	"visible"	"1" 	"ControlName" "CTFImagePanel" "fieldName" "AlexCrosshair" "enabled" "1" "zpos" //"0" "wide" "23" "tall" "23"
+	//	"visible"	"1" 	"ControlName" "CTFImagePanel" "fieldName" "AlexCrosshair" "enabled" "1" "zpos" "0" "wide" "13" "tall" "13"
 	//	
-//
+    //
 	//	"xpos"		"cs-0.5"
 	//	"ypos"		"cs-0.5"
-//
+    //
 	//	"alpha"		"255"
-	//	"image"		"replay/thumbnails/alexcross2"
-	//	"scaleImage"		"1"
-//
+	//	"image"		"replay/thumbnails/alexcross15"
+	//	"scaleImage"		"0"
+    //
 	//	//"fgcolor"	"64 223 255 255" //"84 223 255 255"
 	//}
 }
