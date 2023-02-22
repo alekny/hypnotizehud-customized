@@ -48,12 +48,17 @@
 			"paintborder"							"1"
 
 			"model_center_x"						"1"
+			"model_center_y"						"0"
+			"model_xpos"							"0"
 			"model_ypos"							"5"
 			"model_tall"							"55"
 			"model_wide"							"82"
+
 			"text_ypos"								"60"
 			"text_center"							"1"
 			"name_only"								"1"
+
+			"noitem_use_fullpanel"					"0"
 
 			"attriblabel"
 			{
