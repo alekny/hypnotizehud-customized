@@ -20,6 +20,16 @@
 				"antialias"									"1"
 			}
 		}
+		"Symbols 12 Blur"
+		{
+			"1"
+			{
+				"name"										"Hypnotize Icons V7"
+				"tall"										"12"
+				"antialias"									"1"
+				"blur"										"1"
+			}
+		}
 		"Symbols 14"
 		{
 			"1"

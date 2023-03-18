@@ -25,7 +25,7 @@
 		"xpos"										"c-135"
 		"xpos_minmode"								"c-137"
 		"ypos"										"c85"
-		"ypos_minmode"								"c40"
+		"ypos_minmode"								"c23"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"50"
@@ -48,7 +48,7 @@
 		"labelText" 		         				"%Health%"
 		"textAlignment"         				 	"east"	
 		"font"                   				 	"Game 40"
-		"font_minmode"                   			"Game 32"
+		"font_minmode"                   			"Game 30"
 		"fgcolor"	    	         				"Health Numbers"
 
 		"pin_to_sibling"							"HealthAnchor"
@@ -72,7 +72,7 @@
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"east"	
 		"font"                   				 	"Game 40 Blur"
-		"font_minmode"                   			"Game 32 Blur"
+		"font_minmode"                   			"Game 30 Blur"
 		"fgcolor"	     	         				"Shadow"
 
 		"pin_to_sibling" 							"PlayerStatusHealthValue"

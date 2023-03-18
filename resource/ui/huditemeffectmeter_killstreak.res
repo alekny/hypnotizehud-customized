@@ -5,11 +5,11 @@
 		"fieldName"									"HudItemEffectMeter"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"rs1-5"
-		"ypos"										"0"
+		"xpos"										"c-185"
+		"ypos"										"c36"
 		"wide"										"60"
 		"tall"										"20"
-		"MeterFG"									"White"
+		"MeterFG"									"Cyan"
 		"MeterBG"									"Gray"
 	}
 
@@ -17,7 +17,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"KillstreakIcon"
-		"xpos"										"rs1-2"
+		"xpos"										"rs1-10"
 		"ypos"										"0"
 		"zpos"										"3"
 		"wide"										"15"
@@ -28,8 +28,8 @@
 		"textAlignment"								"east"
 		"AllCaps"									"1"
 		"proportionaltoparent"						"1"
-		"font"										"Symbols 14"
-		"fgcolor"									"White"
+		"font"										"Symbols 12"
+		"fgcolor"									"Cyan"
 	}
 	"KillstreakIconShadow"
 	{
@@ -46,7 +46,7 @@
 		"AllCaps"									"1"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"east"
-		"font"										"Symbols 14 Blur"
+		"font"										"Symbols 12 Blur"
 		"fgcolor"									"Shadow"
 		"pin_to_sibling" 							"KillstreakIcon"
 	}
@@ -66,8 +66,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"east"
-		"font"										"Size 20"
-		"fgcolor"									"White"
+		"font"										"Size 16"
+		"fgcolor"									"Cyan"
 
 		"pin_to_sibling" 							"KillstreakIcon"
 		"pin_corner_to_sibling" 					"PIN_CENTER_RIGHT"
@@ -87,7 +87,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"east"
-		"font"										"Size 20 Blur"
+		"font"										"Size 16 Blur"
 		"fgcolor"									"Shadow"
 
 		"pin_to_sibling" 							"ItemEffectMeterCount"

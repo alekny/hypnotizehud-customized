@@ -67,7 +67,7 @@
 		"xpos"										"c-149"
 		"xpos_minmode"								"c-105"
 		"ypos"										"r112"
-		"ypos_minmode"								"r167"
+		"ypos_minmode"								"r184"
 		"wide"										"f0"
 		"tall"  									"24"
 	}
@@ -103,7 +103,7 @@
 	"CMainTargetID"
 	{
 		"ypos"										"240"
-		"ypos_minmode"								"240"
+		"ypos_minmode"								"227"
 		"tall"	 									"50"
 		"tall_minmode"	 							"50"
 	}
@@ -111,7 +111,7 @@
 	"CSecondaryTargetID"
 	{
 		"ypos"										"270"
-		"ypos_minmode"								"300"
+		"ypos_minmode"								"283"
 		"tall"	 									"50"
 		"tall_minmode"	 							"50"
 	}

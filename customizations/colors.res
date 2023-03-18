@@ -17,7 +17,7 @@
 		// INGAME COLORS
 		//=============================================================================
 
-		"Crosshair"											"227 228 230 255"
+		"Crosshair"											"240 65 143 255"
 		"Crosshair Shadow"									"0 0 0 255"
 		"Crosshair Pulse"									"255 0 0 255"
 
@@ -27,10 +27,16 @@
 
 		"Shadow"											"0 0 0 175"
 
-		"Buffed Health"										"30 175 255 255"
-		"Buffed Health Pulse"								"80 150 255 255"
+		//"Buffed Health"									"30 175 255 255"
+		//"Buffed Health Pulse"								"80 150 255 255"
 
-		"Low Health"										"255 50 50 255"
+		"Buffed Health"										"89 191 64 255"
+		"Buffed Health Pulse"								"34 191 35 255"
+
+		//"Low Health"										"255 50 50 255"
+		//"Low Health Pulse"								"255 0 0 255"
+
+		"Low Health"										"255 64 80 255"
 		"Low Health Pulse"									"255 0 0 255"
 
 		"Ammo In Clip"										"227 228 230 255"
@@ -48,7 +54,7 @@
 		"Full Ubercharge Pulse"								"80 150 255 255"
 
 		"Heal Numbers"										"0 255 0 255"
-		"Last Damage Done"									"227 228 230 255"
+		"Last Damage Done"									"236 236 41 255"
 
 		"Health Gained"										"75 210 75 255"
 		"Health Lost"										"255 50 50 255"
@@ -56,6 +62,8 @@
 		"Red"												"255 61 61 255"
 		"Blue"												"92 173 255 255"
 		"Green"												"75 210 75 255"
+
+		"Cyan"												"64 160 255 255"
 
 		//=============================================================================
 		// MENU COLORS
