@@ -65,7 +65,7 @@
 	"CHealthAccountPanel"
 	{
 		"xpos"										"c-149"
-		"xpos_minmode"								"c-115"
+		"xpos_minmode"								"c-110"
 		"ypos"										"r112"
 		"ypos_minmode"								"r230"
 		"wide"										"f0"
