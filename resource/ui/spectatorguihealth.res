@@ -1,65 +1,65 @@
 "Resource/UI/SpectatorGUIHealth.res"
 {
-	"HealthBG"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthBG"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"34"
-		"wide_minmode"								"36"
-		"tall"	 									"20"
-		"tall_minmode"	 							"18"
-		"visible"									"1"
-		"enabled"									"1"
-		"paintbackground"							"0"
-		"border"									"HealthBorder"
-
-		"alpha"										"255"
-	}
-
-	"HealthBuff"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthBuff"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"34"
-		"wide_minmode"								"36"
-		"tall"	 									"20"
-		"tall_minmode"	 							"18"
-		"visible"									"1"
-		"enabled"									"1"
-		"paintbackground"							"0"
-		"border"									"BuffedBorder"
-
-		"alpha"										"0"
-
-		"pin_to_sibling" 							"HealthBG"
-	}
-
-	"HealthHurt"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthHurt"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"34"
-		"wide_minmode"								"36"
-		"tall"	 									"20"
-		"tall_minmode"	 							"18"
-		"visible"									"1"
-		"enabled"									"1"
-		"paintbackground"							"0"
-		"border"									"HurtBorder"
-
-		"alpha"										"0"
-
-		"pin_to_sibling" 							"HealthBG"
-	}
+	//"HealthBG"
+	//{
+	//	"ControlName"								"EditablePanel"
+	//	"fieldName"									"HealthBG"
+	//	"xpos"										"0"
+	//	"ypos"										"0"
+	//	"zpos"										"1"
+	//	"wide"										"34"
+	//	"wide_minmode"								"36"
+	//	"tall"	 									"20"
+	//	"tall_minmode"	 							"18"
+	//	"visible"									"1"
+	//	"enabled"									"1"
+	//	"paintbackground"							"0"
+	//	"border"									"HealthBorder"
+//
+	//	"alpha"										"255"
+	//}
+//
+	//"HealthBuff"
+	//{
+	//	"ControlName"								"EditablePanel"
+	//	"fieldName"									"HealthBuff"
+	//	"xpos"										"0"
+	//	"ypos"										"0"
+	//	"zpos"										"1"
+	//	"wide"										"34"
+	//	"wide_minmode"								"36"
+	//	"tall"	 									"20"
+	//	"tall_minmode"	 							"18"
+	//	"visible"									"1"
+	//	"enabled"									"1"
+	//	"paintbackground"							"0"
+	//	"border"									"BuffedBorder"
+//
+	//	"alpha"										"0"
+//
+	//	"pin_to_sibling" 							"HealthBG"
+	//}
+//
+	//"HealthHurt"
+	//{
+	//	"ControlName"								"EditablePanel"
+	//	"fieldName"									"HealthHurt"
+	//	"xpos"										"0"
+	//	"ypos"										"0"
+	//	"zpos"										"1"
+	//	"wide"										"34"
+	//	"wide_minmode"								"36"
+	//	"tall"	 									"20"
+	//	"tall_minmode"	 							"18"
+	//	"visible"									"1"
+	//	"enabled"									"1"
+	//	"paintbackground"							"0"
+	//	"border"									"HurtBorder"
+//
+	//	"alpha"										"0"
+//
+	//	"pin_to_sibling" 							"HealthBG"
+	//}
 
 	"PlayerStatusHealthValueSpec"
 	{
@@ -79,7 +79,6 @@
 		"font_minmode"										"Game 16"
 		"fgcolor"									"Health Numbers"
 		"labeltext"									"%Health%"
-		"pin_to_sibling" 							"HealthBG"
 	}
 
 	"PlayerStatusHealthValueSpecShadow"
