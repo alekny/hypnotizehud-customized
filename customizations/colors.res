@@ -27,11 +27,11 @@
 
 		"Shadow"											"0 0 0 175"
 
-		//"Buffed Health"									"30 175 255 255"
-		//"Buffed Health Pulse"								"80 150 255 255"
+		"Buffed Health"										"58 252 164 255"
+		"Buffed Health Pulse"								"48 252 163 255"
 
-		"Buffed Health"										"89 191 64 255"
-		"Buffed Health Pulse"								"34 191 35 255"
+		//"Buffed Health"									"113 240 113 255"
+		//"Buffed Health Pulse"								"95 222 95 255"
 
 		//"Low Health"										"255 50 50 255"
 		//"Low Health Pulse"								"255 0 0 255"
@@ -43,11 +43,11 @@
 		"Ammo In Reserve"									"227 228 230 255"
 		"Ammo No Clip"										"227 228 230 255"
 
-		"Low Ammo In Clip"									"255 50 50 255"
+		"Low Ammo In Clip"									"255 64 80 255"
 		"Low Ammo In Clip Pulse"							"255 0 0 255"
-		"Low Ammo In Reserve"								"255 50 50 255"
+		"Low Ammo In Reserve"								"255 64 80 255"
 		"Low Ammo In Reserve Pulse"							"255 0 0 255"
-		"Low Ammo No Clip"									"255 50 50 255"
+		"Low Ammo No Clip"									"255 64 80 255"
 		"Low Ammo No Clip Pulse"							"255 0 0 255"
 
 		"Full Ubercharge"									"30 175 255 255"
